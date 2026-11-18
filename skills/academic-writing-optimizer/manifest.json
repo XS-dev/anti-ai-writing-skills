@@ -1,0 +1,14 @@
+{
+  "name": "academic-writing-optimizer",
+  "version": "1.0.0",
+  "files": {
+    "README.md": "041c8f4eb47a24107ea617a4fbf26d1a695a973e98b7e47a72c1d92728d065c8",
+    "references/detector-hardening.md": "83ce4132f0d0dbc097085ad6238aca13d09ccb4d4fc782f44d7b696b4b090bd9",
+    "references/examples.md": "0be0ef797fa093590190371a9dbf04d77a410402f446169108098be8007caebb",
+    "references/reader-feedback.md": "598a00b94dc7fd6c36c33522300c24a935dbca0d16e07f7b48f95ea48aa9d6fd",
+    "references/section-rules.md": "da827d55d7fcad0b611f30b2975709bbd6cc9837e8d0b729c99cdd446168e4b1",
+    "SKILL.md": "cde4b4a0bc26b829ec0c39fd3fd5b51245b332f4ea329520c932eda7c625eb31",
+    "templates/acceptance-checklist.md": "9406d16d79a56abf19b45d0e7a17f6ad31b0eea1cf305cf07be99f868952f6b3",
+    "templates/revision-report.md": "e46ffd057c20a7cb3f5209a49eea291a52335306e5538165f42d16e9c1529066"
+  }
+}

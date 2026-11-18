@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "anti-ai-writing-skills",
+  "description": "Curated skills for removing AI writing tells, defensive hedging, and LLM prose patterns across scientific manuscripts and general text.",
+  "version": "1.0.0",
+  "author": {
+    "name": "XS-dev",
+    "url": "https://github.com/XS-dev"
+  },
+  "homepage": "https://github.com/XS-dev/anti-ai-writing-skills",
+  "repository": "https://github.com/XS-dev/anti-ai-writing-skills",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "academic-writing",
+    "scientific-writing",
+    "humanizer",
+    "de-ai",
+    "anti-ai",
+    "editing"
+  ],
+  "skills": [
+    "./skills/academic-writing-optimizer",
+    "./skills/scientific-writing-editor",
+    "./skills/anti-defensive-writing",
+    "./skills/humanizer"
+  ]
+}

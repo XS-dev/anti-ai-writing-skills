@@ -1,0 +1,4 @@
+SKILL.md
+README.md
+memory-summary.txt
+checklists/20-point-checklist.md

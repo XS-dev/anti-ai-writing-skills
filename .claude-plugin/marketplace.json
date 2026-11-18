@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "anti-ai-writing-skills",
+  "owner": {
+    "name": "XS-dev",
+    "url": "https://github.com/XS-dev"
+  },
+  "description": "De-AI and scientific prose optimization skills for Antigravity, Magpie, DSH, Claude Code, and Codex.",
+  "plugins": [
+    {
+      "name": "anti-ai-writing-skills",
+      "source": "./",
+      "description": "Curated de-AI writing skills: academic-writing-optimizer, scientific-writing-editor, anti-defensive-writing, and humanizer.",
+      "license": "MIT",
+      "keywords": ["writing", "academic", "humanizer", "de-ai", "editing"]
+    }
+  ]
+}
